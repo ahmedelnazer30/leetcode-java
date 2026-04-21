@@ -11,10 +11,14 @@
             "id": "c3605f34b8e609de",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "my first note.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "my first note"
             }
           }
         ]
@@ -177,5 +181,7 @@
     }
   },
   "active": "c3605f34b8e609de",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "my first note.md"
+  ]
 }
